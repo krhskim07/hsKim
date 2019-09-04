@@ -27,6 +27,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/formation_responsive.css">
     <link rel="stylesheet" type="text/css" href="assets/css/projetPerso.css">
     <link rel="stylesheet" type="text/css" href="assets/css/projetPerso_responsive.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/stages.css">    
 
     <!-- stylesheet link end -->
 

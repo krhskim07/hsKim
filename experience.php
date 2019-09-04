@@ -27,6 +27,19 @@
                             
                             <!-- Experience Item -->
                             <div class="exp_item d-flex flex-md-row flex-column align-items-start justify-content-start">
+                                <div><div class="exp_time">Août 2019 - Actuellement</div></div>
+                                <div class="exp_content">
+                                    <div class="exp_title_container">
+                                        <div class="exp_title">Chargé du développement IT/IS en Alternance</div>
+                                        <div class="exp_subtitle">My Green Shop</div>
+                                    </div>
+                                    <div class="exp_text">
+                                        <p>Développement du site internet/ application mobile et solutions interne </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Experience Item -->
+                            <div class="exp_item d-flex flex-md-row flex-column align-items-start justify-content-start">
                                 <div><div class="exp_time">Juin - Août 2019</div></div>
                                 <div class="exp_content">
                                     <div class="exp_title_container">
