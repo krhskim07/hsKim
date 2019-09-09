@@ -58,7 +58,7 @@
 									<div class="col-xl-4 col-lg-6 pb_col">
 										<div class="pb_item">
 											<div class="p_bar_title">Vue Js</div>
-											<div id="skill_2_pbar" class="skill_bars" data-perc="0.65" data-name="skill_2_pbar" data-color-start="#ff4646" data-color-end="#ff26d9"></div>
+											<div id="skill_2_pbar" class="skill_bars" data-perc="0.35" data-name="skill_2_pbar" data-color-start="#ff4646" data-color-end="#ff26d9"></div>
 										</div>
 									</div>
 
@@ -66,7 +66,7 @@
 									<div class="col-xl-4 col-lg-6 pb_col">
 										<div class="pb_item">
 											<div class="p_bar_title">Node Js</div>
-											<div id="skill_3_pbar" class="skill_bars" data-perc="0.65" data-name="skill_3_pbar" data-color-start="#0054ff" data-color-end="#ff23d3"></div>
+											<div id="skill_3_pbar" class="skill_bars" data-perc="0.45" data-name="skill_3_pbar" data-color-start="#0054ff" data-color-end="#ff23d3"></div>
 										</div>
 									</div>
 
@@ -93,7 +93,13 @@
 											<div id="skill_6_pbar" class="skill_bars" data-perc="0.3" data-name="skill_6_pbar" data-color-start="#ff2d72" data-color-end="#ffab79"></div>
 										</div>
 									</div>
-
+									<!-- Progress Bar -->
+									<div class="col-xl-4 col-lg-6 pb_col">
+										<div class="pb_item">
+											<div class="p_bar_title">PHP</div>
+											<div id="skill_7_pbar" class="skill_bars" data-perc="0.5" data-name="skill_7_pbar" data-color-start="#0054ff" data-color-end="#ff4646"></div>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -101,6 +107,8 @@
 					</div>
 				</div>
 			</div>
+			<!-- End Main Content -->
+			
             </div>
           </div>
 
@@ -116,3 +124,4 @@
 	<?php require_once('inc/scripts.inc.php');  ?>
 	<!-- scripts end -->
 </body>
+</html>

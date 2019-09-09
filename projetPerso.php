@@ -45,27 +45,20 @@
                             </div>
                             <!-- Projet Item -->
                             <div class="edu_item d-flex flex-lg-row flex-column align-items-start justfy-content-start">
-                                    <div><div class="edu_image"><img src="assets/images/csharpproject.png" alt=""></div></div>
-                                    <div class="edu_content">
-                                        <div class="edu_title_container">
-                                            <div class="edu_title">Projet Mini RPG C#</div>
-                                        </div>
-                                        <div class="edu_text">
-                                            <p>
-                                                Création d'un mini jeu RPG sur console en C#.
-
-                                            </p>
-                                        </div>
+                                <div><div class="edu_image"><img src="assets/images/csharpproject.png" alt=""></div></div>
+                                <div class="edu_content">
+                                    <div class="edu_title_container">
+                                        <div class="edu_title">Projet Mini RPG C#</div>
+                                    </div>
+                                    <div class="edu_text">
+                                        <p>Création d'un mini jeu RPG sur console en C#.</p>
                                     </div>
                                 </div>
-                            
-
+                            </div>
                         </div>
-
                     </div>
                 </div>
-              
-            </div>
+            </div >
         </div>
 
           <!-- Footer start -->
@@ -80,3 +73,4 @@
 	<?php require_once('inc/scripts.inc.php');  ?>
 	<!-- scripts end -->
 </body>
+</html>

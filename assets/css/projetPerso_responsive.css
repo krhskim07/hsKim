@@ -60,7 +60,7 @@
 	}
 	.main_content
 	{
-		width: calc(100% - 400px);
+		width: 100% !important;
 	}
 	.main_title
 	{

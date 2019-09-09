@@ -5,8 +5,7 @@
 			<div class="col-md-12 text-center">
 				<div class="copyright">
 				<p>
-				Copyright &copy;<script>document.write(new Date().getFullYear());</script> Made <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank">Hyunsuk KIM</a>
-
+					 Made <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank">Hyunsuk KIM</a> <script>document.write(new Date().getFullYear());</script>
 				</p>	
 				</div>
 			</div>

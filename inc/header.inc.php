@@ -1,3 +1,10 @@
+<!-- head start-->
+<?php require_once('inc/head.inc.php');  ?>
+
+<!-- head end -->
+
+
+<body>
 <!-- Header -->
 
 <header class="header">

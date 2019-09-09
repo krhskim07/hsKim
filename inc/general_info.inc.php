@@ -1,7 +1,7 @@
 <!-- General Information -->
 <div class="general_info d-flex flex-xl-column flex-md-row flex-column">
     <div>
-        <div class="general_info_image">
+        <div class="general_info_image d-flex justify-content-center">
         <div class="background_image" style="background-image:url(assets/images/selfie1.png)"></div>
         <!-- <div class="header_button_2">
             <a href="#">Disponible pour un stage de find'étude</a>
@@ -21,10 +21,10 @@
             <div class="general_info_icon d-flex flex-column align-items-start justify-content-center"></div>
             <div class="general_info_text">Adresse: <span>Puteaux Ile de France</span></div>
             </li>
-            <li class="d-flex flex-row align-items-center justify-content-start">
+            <!-- <li class="d-flex flex-row align-items-center justify-content-start">
             <div class="general_info_icon d-flex flex-column align-items-start justify-content-center"><img src="assets/images/icon_2.png" alt=""></div>
             <div class="general_info_text">Date de Naissance: <span>7 Mars 1989</span></div>
-            </li>
+            </li> -->
             <li class="d-flex flex-row align-items-center justify-content-start">
             <div class="general_info_icon d-flex flex-column align-items-start justify-content-center"><img src="assets/images/icon_3.png" alt=""></div>
             <div class="general_info_text"><a href="mailto:contact@linque.com?subject=Job_Inquiry">hyunsuk.kim@ynov.com</a></div>
@@ -49,4 +49,4 @@
         </div>
         </div>
     </div>
-    </div>
+</div>

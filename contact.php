@@ -67,3 +67,4 @@
 	<?php require_once('inc/scripts.inc.php');  ?>
 	<!-- scripts end -->
 </body>
+</html>

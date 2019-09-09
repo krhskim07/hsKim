@@ -27,7 +27,7 @@
                             
                             <!-- Experience Item -->
                             <div class="exp_item d-flex flex-md-row flex-column align-items-start justify-content-start">
-                                <div><div class="exp_time">Août 2019 - Actuellement</div></div>
+                                <div><div class="exp_time">Août 2019 - </div></div>
                                 <div class="exp_content">
                                     <div class="exp_title_container">
                                         <div class="exp_title">Chargé du développement IT/IS en Alternance</div>
