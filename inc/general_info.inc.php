@@ -33,10 +33,10 @@
             <div class="general_info_icon d-flex flex-column align-items-start justify-content-center"><img src="assets/images/icon_4.png" alt=""></div>
             <div class="general_info_text">+33 (0)6 46 52 76 17</div>
             </li>
-            <!-- <li class="d-flex flex-row align-items-center justify-content-start">
+            <li class="d-flex flex-row align-items-center justify-content-start">
             <div class="general_info_icon d-flex flex-column align-items-start justify-content-center"><img src="assets/images/icon_5.png" alt=""></div>
-            <div class="general_info_text"><a href="mailto:contact@linque.com"></a></div>
-            </li> -->
+            <div class="general_info_text"><a href="https://desolate-reef-41520.herokuapp.com">https://desolate-reef-41520.herokuapp.com</a></div>
+            </li>
         </ul>
 
         <!-- Social -->
